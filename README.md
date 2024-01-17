@@ -1,20 +1,31 @@
-👋 ¡Hola, soy @IslamReact!
-👀 Mi interés abarca un amplio espectro que incluye la programación en Java y Kotlin, 
-así como el desarrollo de aplicaciones. Estoy constantemente explorando nuevas tecnologías y 
-enriqueciendo mis conocimientos en el mundo del desarrollo de software.
+<h1 align="center">¡Hola, soy @IslamReact! 👋</h1>
+
+## Acerca de mí
+Soy un entusiasta del desarrollo de software con un amplio interés que abarca desde la programación en Java y Kotlin hasta el desarrollo de aplicaciones. Siempre estoy explorando nuevas tecnologías y buscando enriquecer mis conocimientos en el vasto mundo del desarrollo de software.
+
+## Aprendizaje constante
+Actualmente, estoy inmerso en el aprendizaje de Kotlin y consolidando mis habilidades en Java. La versatilidad de ambos lenguajes me permite abordar proyectos desafiantes y seguir expandiendo mi conjunto de habilidades.
+
+## Colaboración y Proyectos
+Estoy emocionado con la idea de colaborar en proyectos innovadores que involucren tanto a Kotlin como a Java. Creo en la sinergia de estas tecnologías para crear soluciones robustas y eficientes. Si tienes un proyecto interesante, ¡me encantaría contribuir!
+
+## Conéctate conmigo
+- 💼 LinkedIn: [Islam](https://www.linkedin.com/in/islam-el-mrabet-larhzaoui-b0441629a/)
+- 📧 Correo Electrónico: islamelmrabet04@gmail.com
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/islam-el-mrabet-larhzaoui-b0441629a/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/iiislaaamm/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Otra Red Social" height="30"/>
+  </a>
+</p>
 
 
-🌱 En este momento, me encuentro inmerso en el proceso de aprendizaje de Kotlin 
-y también consolidando mis habilidades en Java. La versatilidad de ambos lenguajes
-me permite abordar proyectos desafiantes y continuar expandiendo mi conjunto de habilidades.
-
-
-💞️ Estoy entusiasmado con la posibilidad de colaborar en proyectos innovadores que involucren 
-tanto a Kotlin como a Java. Creo en la sinergia de estas tecnologías para crear soluciones robustas y eficientes.
-
-
-📫 Si estás interesado en conectarte conmigo, no dudes en hacerlo aquí en esta plataforma o a 
-través de islamelmrabet04@gmail.com. Estoy abierto a discusiones, colaboraciones y aprendizaje mutuo.
 
 <!---
 IslamReact/IslamReact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
