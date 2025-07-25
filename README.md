@@ -1,4 +1,4 @@
-![Mi tarjeta personal](./Islam El Mrabet.png)
+![Mi tarjeta personal](./IslamelMrabet.jpg)
 <h1 align="center">¡Hola, soy @IslamReact! 👋</h1>
 
 ## Acerca de mí
