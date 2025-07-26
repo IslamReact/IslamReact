@@ -1,5 +1,5 @@
 ![Mi tarjeta personal](./IslamelMrabet.jpg)
-![Mi tarjeta personal](./titulo.png)
+<h1 align="center">¡Hola, soy @IslamReact! 👋</h1>
 
 ## Acerca de mí
 Soy un entusiasta del desarrollo de software con un amplio interés que abarca desde la programación en Java y Kotlin hasta el desarrollo de aplicaciones. Siempre estoy explorando nuevas tecnologías y buscando enriquecer mis conocimientos en el vasto mundo del desarrollo de software.
