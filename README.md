@@ -2,7 +2,6 @@
 <h1 align="center">¡Hola, soy @IslamReact! 👋</h1>
 
 ## Acerca de mí
----
 Soy un entusiasta del desarrollo de software con un amplio interés que abarca desde la programación en Java y Kotlin hasta el desarrollo de aplicaciones. Siempre estoy explorando nuevas tecnologías y buscando enriquecer mis conocimientos en el vasto mundo del desarrollo de software.
 
 Lenguajes que domino:
@@ -19,23 +18,23 @@ Lenguajes que domino:
 
 
 ## Aprendizaje constante
----
 Actualmente, estoy inmerso en el aprendizaje de Kotlin y consolidando mis habilidades en Java. La versatilidad de ambos lenguajes me permite abordar proyectos desafiantes y seguir expandiendo mi conjunto de habilidades.
 
 ## Mis estadíticas
----
 ![IslamReact's Stats](https://github-readme-stats.vercel.app/api?username=IslamReact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![IslamReact's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IslamReact&theme=tokyonight&hide_border=true)
 ![IslamReact's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamReact&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## Colaboración y Proyectos
----
 Estoy emocionado con la idea de colaborar en proyectos innovadores que involucren tanto a Kotlin como a Java. Creo en la sinergia de estas tecnologías para crear soluciones robustas y eficientes. Si tienes un proyecto interesante, ¡me encantaría contribuir!
 
 ## Conéctate conmigo
----
 - 💼 LinkedIn: [Islam](https://www.linkedin.com/in/islam-el-mrabet-larhzaoui-b0441629a/)
 - 📧 Correo Electrónico: islamelmrabet04@gmail.com
+
+## 🎬 Demo en acción
+
+![App Demo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
