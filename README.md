@@ -32,10 +32,6 @@ Estoy emocionado con la idea de colaborar en proyectos innovadores que involucre
 - 💼 LinkedIn: [Islam](https://www.linkedin.com/in/islam-el-mrabet-larhzaoui-b0441629a/)
 - 📧 Correo Electrónico: islamelmrabet04@gmail.com
 
-## 🎬 Demo en acción
-
-![App Demo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ---
 
 <p align="center">
