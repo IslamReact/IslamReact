@@ -4,6 +4,18 @@
 ## Acerca de mí
 Soy un entusiasta del desarrollo de software con un amplio interés que abarca desde la programación en Java y Kotlin hasta el desarrollo de aplicaciones. Siempre estoy explorando nuevas tecnologías y buscando enriquecer mis conocimientos en el vasto mundo del desarrollo de software.
 
+<!-- Lenguajes -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- Frameworks / Otros -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
 ## Aprendizaje constante
 Actualmente, estoy inmerso en el aprendizaje de Kotlin y consolidando mis habilidades en Java. La versatilidad de ambos lenguajes me permite abordar proyectos desafiantes y seguir expandiendo mi conjunto de habilidades.
 
